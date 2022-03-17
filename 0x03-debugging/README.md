@@ -1,0 +1,1 @@
+this project is about how how debug an error or identify and error befor compiling it and the step we follow is trying to make the mistake again to anylze what we used and which line of code results the error 
